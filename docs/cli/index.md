@@ -6,6 +6,7 @@ Within Gemini CLI, `packages/cli` is the frontend for users to send and receive 
 
 - **[Authentication](./authentication.md):** A guide to setting up authentication with Google's AI services.
 - **[Commands](./commands.md):** A reference for Gemini CLI commands (e.g., `/help`, `/tools`, `/theme`).
+- **[Init](./init.md):** Generate a `GEMINI.md` file for your project.
 - **[Configuration](./configuration.md):** A guide to tailoring Gemini CLI behavior using configuration files.
 - **[Enterprise](./enterprise.md):** A guide to enterprise configuration.
 - **[Token Caching](./token-caching.md):** Optimize API costs through token caching.
